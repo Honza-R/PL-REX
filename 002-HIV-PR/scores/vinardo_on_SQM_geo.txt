@@ -1,0 +1,22 @@
+1HSG	-7.822
+1HXW	-6.582
+1IZH	-7.702
+1T3R	-6.772
+3EL1	-7.580
+2Q54	-7.353
+2Q55	-7.551
+2Q5K	-7.759
+3EKX	-8.179
+3NU3	-6.737
+3OXC	-8.215
+5HVP	-6.052
+model13a	-7.309
+model13c	-6.936
+model13d	-6.905
+model16a	-6.779
+model16e	-6.989
+model16f	-6.394
+model22a	-7.657
+model22d	
+model23a	-7.051
+model25d	

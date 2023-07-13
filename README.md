@@ -47,6 +47,10 @@ The smaller model (to which the DFT was applied) is available in the `structures
 
 The experimental affinities have been converted to binding free energies and are available in the `experimental_dG.txt` files.
 
+The SQM2.20 score computed on the PL-REX geometries is available as `score_SQM2.20.txt` for each target. The same score, and the DFT score, compute on the small model are available in the `structures_small_model` subdirectory.
+
+Scores obtained with standard scoring functions on the PL-REX geometries are available in the `scores` subdirectory.
+
 
 
 

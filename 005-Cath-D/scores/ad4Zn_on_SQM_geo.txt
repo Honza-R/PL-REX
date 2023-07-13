@@ -1,0 +1,10 @@
+6QBG	-13.86
+6QBH	-14.06
+6QCB	-13.85
+model08	-12.07
+model22	-12.81
+model24	-13.30
+model25	-14.51
+model31	-13.54
+model35	-11.63
+model36	-13.69

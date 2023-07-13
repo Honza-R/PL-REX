@@ -1,0 +1,10 @@
+6QBG                    -8.292
+6QBH                    -8.285
+6QCB                    -8.254
+model08                 -8.264
+model22                 -8.284
+model24                 -8.253
+model25                 -8.324
+model31                 -8.229
+model35                 -8.311
+model36                 -8.336

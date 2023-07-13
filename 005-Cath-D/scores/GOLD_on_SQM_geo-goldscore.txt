@@ -1,0 +1,10 @@
+6QBG	93.60
+6QBH	88.05
+6QCB	91.13
+model08	85.03
+model22	91.48
+model24	91.65
+model25	97.93
+model31	88.33
+model35	85.15
+model36	84.14
