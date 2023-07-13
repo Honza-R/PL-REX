@@ -1,0 +1,12 @@
+# Experimental affinity converted to binding free energy
+# Values in kcal/mol
+6QBG                             -13.072
+6QBH                             -12.221
+6QCB                             -11.720
+model08                          -10.249
+model22                           -9.646
+model24                           -8.954
+model25                          -12.711
+model31                           -9.067
+model35                           -8.746
+model36                           -8.236

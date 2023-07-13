@@ -1,0 +1,17 @@
+# Experimental affinity converted to binding free energy
+# Values in kcal/mol
+1K1I                              -8.980
+1K1J                             -10.310
+1K1L                              -9.430
+1K1M                             -10.100
+1K1N                              -9.310
+2ZHD                              -8.930
+2ZQ2                              -8.960
+3LJJ                              -8.910
+3LJO                              -9.040
+5MNG                              -6.400
+5MO2                              -5.250
+6SY3                              -4.260
+6T0M                              -5.690
+6T0P                              -6.040
+6T5W                              -5.960

@@ -1,0 +1,12 @@
+# Experimental affinity converted to binding free energy
+# Values in kcal/mol
+5NXG                             -11.700
+5NXI                              -9.100
+5NXO                             -11.300
+5NXP                             -10.900
+5NXV                             -11.500
+5NXW                              -9.900
+5NY1                              -8.800
+5NY3                             -10.200
+5NY6                             -10.700
+5NYA                              -8.700

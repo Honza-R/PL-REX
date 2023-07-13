@@ -1,0 +1,20 @@
+# Experimental affinity converted to binding free energy
+# Values in kcal/mol
+3EHX                             -10.380
+3EHY                              -7.990
+3F15                             -11.060
+3F16                             -11.240
+3F17                             -11.780
+3F18                             -10.110
+3F19                              -9.810
+3F1A                              -9.850
+3LK8                             -10.520
+3N2U                             -10.710
+3N2V                             -10.250
+3NX7                             -11.090
+3RTS                             -10.430
+3RTT                             -10.640
+4GUY                             -10.920
+5LAB                             -11.420
+6RD0                              -6.490
+6RLY                              -6.500

@@ -1,0 +1,14 @@
+# Experimental affinity converted to binding free energy
+# Values in kcal/mol
+4E4L                             -12.039
+4E4N                             -12.423
+4E5W                             -10.515
+4EHZ                             -10.982
+4EI4                             -11.997
+4FK6                             -13.315
+4I5C                             -12.107
+4IVB                             -11.970
+4IVC                             -13.727
+4IVD                             -13.068
+4K6Z                             -11.943
+4K77                              -9.101

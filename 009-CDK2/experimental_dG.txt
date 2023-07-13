@@ -1,0 +1,33 @@
+# Experimental affinity converted to binding free energy
+# Values in kcal/mol
+3QQK                              -7.035
+3QTQ                              -7.975
+3QTR                              -8.693
+3QTS                              -7.975
+3QTU                             -10.235
+3QTW                              -8.906
+3QTX                             -10.235
+3QTZ                             -10.435
+3QU0                             -10.982
+3QXP                             -10.982
+3R8U                              -7.690
+3R8V                              -8.015
+3R8Z                              -6.329
+3R9D                              -6.108
+3R9N                              -8.449
+3RAH                              -7.168
+3RAK                              -9.866
+3RAL                             -10.022
+3RJC                              -7.612
+3RK5                              -7.823
+3RK7                              -9.609
+3RK9                              -9.039
+3RKB                              -9.226
+3RMF                              -6.022
+3RNI                              -7.516
+3RPV                             -10.235
+3RPY                              -7.714
+3S00                              -7.168
+3S0O                              -6.565
+3S1H                              -6.960
+3SQQ                              -7.714

@@ -1,0 +1,16 @@
+# Experimental affinity converted to binding free energy
+# Values in kcal/mol
+1US0                              -9.560
+2IKG                              -8.460
+2IKH                              -7.480
+2IKI                             -10.210
+2IKJ                             -10.090
+4LAU                              -9.950
+4LAZ                              -9.360
+4LB3                             -10.730
+4LB4                             -10.460
+4LBR                              -9.560
+4LBS                              -9.640
+4QXI                              -9.590
+4XZH                              -9.660
+4XZI                              -6.880

@@ -1,0 +1,18 @@
+# Experimental affinity converted to binding free energy
+# Values in kcal/mol
+5QCO                             -11.458
+5QCP                             -10.665
+5QCR                              -8.805
+5QCT                             -11.115
+5QCU                              -9.453
+5QCV                             -10.701
+5QCX                             -10.953
+5QCY                             -12.354
+5QCZ                              -7.388
+5QD0                              -9.196
+5QD1                              -8.985
+5QD2                             -10.218
+5QD3                             -10.065
+5QD5                             -10.720
+5QD9                             -11.566
+5QDA                             -11.543

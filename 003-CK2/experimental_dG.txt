@@ -1,0 +1,18 @@
+# Experimental affinity converted to binding free energy
+# Values in kcal/mol
+1F0Q                              -7.854
+1J91                              -8.783
+1M2P                              -8.384
+1M2Q                              -8.369
+1M2R                              -8.862
+1ZOE                             -10.085
+1ZOG                              -9.822
+1ZOH                              -9.609
+2OXD                              -9.367
+2OXX                              -9.196
+2OXY                              -8.954
+3KXG                             -10.047
+3KXH                              -9.063
+3KXM                              -8.995
+3KXN                             -10.485
+3PVG                              -8.062
