@@ -5,6 +5,8 @@
 The data set has been introduced in the following paper, please refer to it for more details and don't forget to cite it:   
 [A. Pecina, J. Fanfrlík, M. Lepšík and J. Řezáč; *ChemRxiv preprint*, **2023**.](https://doi.org/10.26434/chemrxiv-2023-zh03k)
 
+The data set is also archived at Zenodo: [![DOI](https://zenodo.org/badge/660057665.svg)](https://zenodo.org/badge/latestdoi/660057665)
+
 ## Data Set Description
 
 The data set consists of 10 target proteins, each with a series of ligands (164 in total). Crystal structures of the P-L complex are available for the majority of the ligands (147). The PL-REX set uses a single crystal structure of the protein, carefully selected so that it can accommodate all the ligands, into which the ligand poses have been superimposed. In the resulting structures, the ligand and surrounding protein residues have been optimized, yielding the final geometry presented in the data set.
