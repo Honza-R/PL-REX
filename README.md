@@ -40,6 +40,9 @@ Each P-L complex has its own subdirectory containing:
 
 These files represent the refined "PL-REX" geometry of the complexes on which the SQM2.20 score was calculated. Additionally, the optimized active site has been ported back into the structure of the whole protein and is provided as `protein.pdb`.
 
+## Structures from AMBER calculations
+
+Some of the calculations reported in the paper were carried out on structures of the complexes optimized with AMBER/GAFF2 forcefield. These are available in the AMBER subdirectory of each P-L complex. There are two variants, with ligand optimized in frozen protein (`complex_lig_opt.pdb`) and with relaxed flexible region around the ligands (analogously to the PL-REX geometries, `complex_flex_opt.pdb`). In addition to the complex (the active site model with the ligand) in the PDB format, the ligand is also provided as a SDF file (`ligand_lig_opt.sdf` and `ligand_flex_opt.sdf`, respectively).
 
 ## Small Model Structures
 
