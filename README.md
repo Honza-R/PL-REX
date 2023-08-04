@@ -32,13 +32,12 @@ Individual P-L complexes are identified by their PDB code (majority of the syste
 
 ## PL-REX Structures
 
-The crystal structure of the protein from which all the P-L complexes were derived, protonated and prepared for calculations, is provided as the PDB file `protein_crystal_geo.pdb`. The structures of the optimized P-L complexes are stored in the subdirectory `structures` of each protein target.
-Each P-L complex has its own subdirectory containing:
+The structures of the optimized P-L complexes are stored in the subdirectory `structures_pl-rex` of each protein target. Each P-L complex has its own subdirectory containing:
 
 - `ligand.sdf` - The geometry of the ligand in the optimized complex.
 - `receptor.pdb` - Model of the active site used in the complex.
 
-These files represent the refined "PL-REX" geometry of the complexes on which the SQM2.20 score was calculated. Additionally, the optimized active site has been ported back into the structure of the whole protein and is provided as `protein.pdb`.
+**These files represent the refined "PL-REX" geometry of the complexes on which the SQM2.20 score was calculated**. Additionally, the optimized active site has been ported back into the structure of the whole protein and is provided as `protein.pdb`.
 
 ## Structures from AMBER calculations
 
@@ -47,6 +46,10 @@ Some of the calculations reported in the paper were carried out on structures of
 ## Small Model Structures
 
 The smaller model (to which the DFT was applied) is available in the `structures_small_model` directories. Note that the small model has been optimized independently and therefore the geometries of the P-L complexes differ from those in the larger model.
+
+## Crystal structures
+
+The crystal structure of the protein from which all the P-L complexes were derived, protonated and prepared for calculations, is provided as the PDB file `structures_crystal/protein_crystal_geo.pdb`. In the same directory, the initial geometries of the ligands (obtained by overalapping the crystal structures oftheir complexes, protonated, but not optimized) are provided as SDF files.
 
 ## Experimental Affinities and Scores
 
