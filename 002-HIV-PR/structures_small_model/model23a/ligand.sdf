@@ -1,4 +1,4 @@
-23a-chB.pdb
+model23a
  OpenBabel11252210453D
 
  84 89  0  0  1  0  0  0  0  0999 V2000
@@ -180,7 +180,7 @@ M  END
 0
 
 >  <KI_NM>
-657
+657.00
 
 >  <number_of_rotatable_bonds>
 15

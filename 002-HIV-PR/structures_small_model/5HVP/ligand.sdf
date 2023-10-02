@@ -1,4 +1,4 @@
-5HVP_align_H.pdb
+5HVP
  OpenBabel11252210453D
 
 102101  0  0  1  0  0  0  0  0999 V2000
@@ -234,7 +234,7 @@ stardrop
 0
 
 >  <KI_NM>
-116
+116.00
 
 >  <number_of_rotatable_bonds>
 25
