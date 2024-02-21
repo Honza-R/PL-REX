@@ -3,7 +3,7 @@
 **Data set of protein-ligand complexes with reliable experimental structures and affinities.**
 
 The data set has been introduced in the following paper, please refer to it for more details and don't forget to cite it:   
-[A. Pecina, J. Fanfrlík, M. Lepšík and J. Řezáč; *ChemRxiv preprint*, **2023**.](https://doi.org/10.26434/chemrxiv-2023-zh03k)
+[A. Pecina, J. Fanfrlík, M. Lepšík and J. Řezáč; *Nature Communications* **2024**, 15, 1127.](https://doi.org/10.1038/s41467-024-45431-8)
 
 The data set is also archived at Zenodo: [![DOI](https://zenodo.org/badge/660057665.svg)](https://zenodo.org/badge/latestdoi/660057665)
 
