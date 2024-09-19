@@ -1,0 +1,29 @@
+C-terminal capping group (CH3NH)
+MASS
+Tb    1.008    0.000   # Junction atom for C    in ALA (C )
+Ub    1.008    0.000   # Junction atom for CB   in ALA (CT)
+
+BOND
+Tb-CT  587.5400   1.1025   # PM6-D, Adam Pecina
+Ub-CT  587.6400   1.1028   # PM6-D, Adam Pecina
+
+ANGL
+Tb-CT-N    63.0000   110.1000   # From C -CT-N 
+Tb-CT-H1   50.0000   109.5000   # From C -CT-H1
+Tb-CT-Ub   63.0000   111.1000   # From C -CT-CT
+Ub-CT-N    80.0000   109.7000   # From CT-CT-N 
+Ub-CT-H1   50.0000   109.5000   # From CT-CT-H1
+Ub-CT-Tb   63.0000   111.1000   # From C -CT-CT
+
+DIHE
+Tb-CT-N -H   6       0.00        0.0    2.  # From X -CT-N -X 
+Tb-CT-Ub-HC  9       1.40        0.0    3.  # From X -CT-CT-X 
+Tb-CT-Ub-HC  9       1.40        0.0    3.  # From X -CT-CT-X 
+Tb-CT-Ub-HC  9       1.40        0.0    3.  # From X -CT-CT-X 
+Ub-CT-N -H   6       0.00        0.0    2.  # From X -CT-N -X 
+Ub-CT-Tb-O   6       0.00        0.0    2.  # From X -C -CT-X 
+
+NONB
+Tb  1.4870  0.0157      = HC
+Ub  1.4870  0.0157      = HC
+

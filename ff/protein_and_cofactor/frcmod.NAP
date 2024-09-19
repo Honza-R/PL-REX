@@ -1,0 +1,27 @@
+remark goes here
+MASS
+
+BOND
+
+ANGLE
+
+DIHE
+
+IMPROPER
+c3-ca-na-cc         1.1          180.0         2.0          Using default value
+h5-na-cc-nd         1.1          180.0         2.0          Using default value
+ca-ca-ca-nd         1.1          180.0         2.0          Using default value
+ca-nb-ca-nh         1.1          180.0         2.0          Using default value
+ca-hn-nh-hn         1.1          180.0         2.0          Using default value
+h5-nb-ca-nb         1.1          180.0         2.0          Using default value
+ca-na-ca-nb         1.1          180.0         2.0          Using default value
+ca-h4-ca-na         1.1          180.0         2.0          Using default value
+c -ca-ca-ca         1.1          180.0         2.0          Using default value
+ca-n -c -o         10.5          180.0         2.0          General improper torsional angle (2 general atom types)
+c -hn-n -hn         1.1          180.0         2.0          General improper torsional angle (2 general atom types)
+ca-ca-ca-ha         1.1          180.0         2.0          General improper torsional angle (2 general atom types)
+
+NONBON
+
+
+

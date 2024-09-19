@@ -1,0 +1,15 @@
+HCO N-terminal Capping group
+MASS
+Qb    1.008    0.000   # Junction atom for CA   in ALA (CT)
+
+BOND
+Qb-C   574.8200   1.1008   # PM6-D, Adam Pecina
+
+ANGL
+Qb-C -O    80.0000   120.4000   # From CT-C -O 
+Qb-C- N    70.0      116.60     # From CT-C -N
+
+
+NONB
+Qb  1.4870  0.0157      = HC
+

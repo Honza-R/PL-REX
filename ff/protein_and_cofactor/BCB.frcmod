@@ -1,0 +1,19 @@
+Backbone with the side chain cut off (-NH-CH2-CO-)
+MASS
+Vb    1.008    0.000   # Junction atom for CB   in ALA (CT)
+
+BOND
+Vb-CT  578.3742   1.1172   # From CT-CT   1.5260   310.0000, factor=1.36591479
+
+ANGL
+Vb-CT-N    80.0000   109.7000   # From CT-CT-N 
+Vb-CT-H1   50.0000   109.5000   # From CT-CT-H1
+Vb-CT-C    63.0000   111.1000   # From C -CT-CT
+
+DIHE
+Vb-CT-N -H   6       0.00        0.0    2.  # From X -CT-N -X 
+Vb-CT-C -O   6       0.00        0.0    2.  # From X -C -CT-X 
+
+NONB
+Vb  1.4870  0.0157      = HC
+

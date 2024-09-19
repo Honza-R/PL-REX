@@ -1,0 +1,20 @@
+ 0 0 0
+
+ leap-generated prep residue
+BNC.res
+BNC  INT     0
+CHANGE   NOMIT DU   BEG 
+   0.00000
+   1   DUMM  DU    M      0.000000  0.000000  0.000000  0.0
+   2   DUMM  DU    M      1.000000  0.000000  0.000000  0.0
+   3   DUMM  DU    M      1.000000  1.000000  0.000000  0.0
+   4   HA    Qb    M      4.547835  2.630481  0.000000    0.058246
+   5   C     C     M      5.636200  2.465500  0.000000    0.443199
+   6   O     O     E      6.093900  1.324900  0.000000    -0.501445
+
+
+IMPROPER
+ O    +M   C    HA  
+
+DONE
+STOP
