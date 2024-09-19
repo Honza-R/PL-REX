@@ -59,6 +59,7 @@ The SQM2.20 score computed on the PL-REX geometries is available as `score_SQM2.
 
 Scores obtained with standard scoring functions on the PL-REX geometries are available in the `scores` subdirectory.
 
+## Additional data
 
-
+- AMBER parameters for the non-canonical protein residues and for the NAP cofactor are provided in the `ff` directory.
 
