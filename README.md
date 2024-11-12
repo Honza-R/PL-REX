@@ -45,7 +45,7 @@ Some of the calculations reported in the paper were carried out on structures of
 
 ## Small Model Structures
 
-The smaller model (to which the DFT was applied) is available in the `structures_small_model` directories. Note that the small model has been optimized independently and therefore the geometries of the P-L complexes differ from those in the larger model.
+The smaller model (to which the DFT was applied) is available in the `structures_small_model` directories. Note that the small model has been optimized independently and therefore the geometries of the P-L complexes differ from those in the larger model. 
 
 ## Crystal structures
 
@@ -58,6 +58,8 @@ The experimental affinities have been converted to binding free energies and are
 The SQM2.20 score computed on the PL-REX geometries is available as `score_SQM2.20.txt` for each target. The same score, and the DFT score, compute on the small model are available in the `structures_small_model` subdirectory.
 
 Scores obtained with standard scoring functions on the PL-REX geometries are available in the `scores` subdirectory.
+
+For the small models, SQM2.20 score, it's DFT-based analog, and the DFT interaction energies are provided in the respective `structures_small_model` directories.
 
 ## Additional data
 

@@ -1,0 +1,11 @@
+# wB97X-D3BJ/DZVP-DFT gas-phase interaction energies, kcal/mol
+6QBG         	-141.732017
+6QBH         	-134.751124
+6QCB         	-138.796832
+model08      	-134.844637
+model22      	-139.915296
+model24      	-133.665897
+model25      	-149.973598
+model31      	-136.937643
+model35      	-137.814556
+model36      	-112.987377
