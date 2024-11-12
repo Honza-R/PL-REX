@@ -45,7 +45,7 @@ Some of the calculations reported in the paper were carried out on structures of
 
 ## Small Model Structures
 
-The smaller model (to which the DFT was applied) is available in the `structures_small_model` directories. Note that the small model has been optimized independently and therefore the geometries of the P-L complexes differ from those in the larger model. 
+The smaller model (to which the DFT was applied, up to approx. 1000 atoms) is available in the `structures_small_model` directories. Note that the small model has been optimized independently and therefore the geometries of the P-L complexes differ from those in the larger model. These structures, together with the DFT interaction energies computed on them, are also available as a predefined [dataset in the Cuby framework](http://cuby4.molecular.cz/dataset_pl-rex_1k.html).
 
 ## Crystal structures
 
