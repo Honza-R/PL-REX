@@ -65,3 +65,7 @@ For the small models, SQM2.20 score, it's DFT-based analog, and the DFT interact
 
 - AMBER parameters for the non-canonical protein residues and for the NAP cofactor are provided in the `ff` directory.
 
+## License
+
+The data are provided under the [Creative Commons CC-BY license](https://creativecommons.org/licenses/by/4.0/).
+
