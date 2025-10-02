@@ -64,6 +64,8 @@ For the small models, SQM2.20 score, it's DFT-based analog, and the DFT interact
 ## Additional data
 
 - AMBER parameters for the non-canonical protein residues and for the NAP cofactor are provided in the `ff` directory.
+- The individual components of the score are listed in `other_results/SQM2.20_score_components.txt`
+- PM6-D3H4/COSMO interactrion energies are provided in `other_results/dG_int_PM6-D3H4X_COSMO.txt`
 
 ## License
 
